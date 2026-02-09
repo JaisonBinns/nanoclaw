@@ -49,3 +49,16 @@ export const TRIGGER_PATTERN = new RegExp(
 // Uses system timezone by default
 export const TIMEZONE =
   process.env.TZ || Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+// Background mode configuration
+export interface BackgroundModeConfig {
+  enabled: boolean;
+  mode: 'always' | 'smart' | 'manual';
+  threshold?: number; // Seconds - for 'smart' mode
+}
+
+export const BACKGROUND_MODE: BackgroundModeConfig = {
+  enabled: true,
+  mode: 'always',
+  threshold: 10, // Used if switching to smart mode
+};
