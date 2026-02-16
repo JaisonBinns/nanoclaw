@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-02-15",
+  "source": "r/programming top posts (last 24 hours)",
+  "filter": "100+ upvotes only",
+  "posts": [
+    {
+      "title": "Evolving Git for the next decade",
+      "upvotes": 387,
+      "url": "https://www.reddit.com/r/programming/comments/1r4o4px/evolving_git_for_the_next_decade/",
+      "external_link": "https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/",
+      "comments": 199,
+      "description": "LWN article discussing the future evolution and development plans for Git version control system over the next decade"
+    },
+    {
+      "title": "One line of code, 102 blocked threads",
+      "upvotes": 125,
+      "url": "https://www.reddit.com/r/programming/comments/1r4m2rs/one_line_of_code_102_blocked_threads/",
+      "external_link": "https://medium.com/@nik6/a-deep-dive-into-classloader-contention-in-java-a0415039b0c1",
+      "comments": 22,
+      "description": "Deep dive investigation into classloader contention in Java, analyzing how a single line of code caused 102 threads to become blocked. Includes thread dumps and JDK source analysis"
+    }
+  ],
+  "total_posts_found": 2,
+  "note": "Only 2 posts exceeded the 100+ upvotes threshold in the last 24 hours"
+}
