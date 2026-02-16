@@ -226,3 +226,71 @@ When scheduling tasks for other groups, use the `target_group_jid` parameter wit
 - `schedule_task(prompt: "...", schedule_type: "cron", schedule_value: "0 9 * * 1", target_group_jid: "120363336345536173@g.us")`
 
 The task will run in that group's context with access to their files and memory.
+
+---
+
+## Managing Specialized Project Groups
+
+As Chief of Staff, you coordinate specialized groups for different projects:
+
+### Active Project Groups
+
+| Group | Purpose | Folder | Status |
+|-------|---------|--------|--------|
+| **nanoclaw-dev** | NanoClaw codebase improvements | `groups/nanoclaw-dev/` | Ready to register |
+
+### Delegation Pattern
+
+When the user requests project-specific work:
+
+1. **Assess the task** - Determine which project group should handle it
+2. **Delegate if appropriate** - Send a message to that group's chat
+3. **Coordinate** - Check progress, review results, provide feedback
+4. **Integrate** - Ensure work fits into the larger picture
+
+**Example delegation:**
+```
+User: "Improve the Telegram message chunking"
+
+You assess: This is NanoClaw development work
+
+You delegate: Send message to nanoclaw-dev group chat with context:
+"Please improve the Telegram message chunking logic to split at word
+boundaries instead of arbitrary character limits. See src/channels/telegram.ts"
+
+You coordinate: Check their dev-log.md for progress
+
+You review: Once complete, review changes and approve deployment
+```
+
+### When to Delegate vs. Handle Directly
+
+**Delegate to nanoclaw-dev:**
+- Code refactoring or optimization
+- Bug fixes in NanoClaw codebase
+- New feature implementation
+- Architecture improvements
+- Documentation updates for technical docs
+
+**Handle directly (as Nina):**
+- User questions and general assistance
+- Scheduling and reminders
+- Web searches and research
+- File operations in user projects
+- Quick edits or configurations
+
+### Project Group Setup
+
+To register a new project group via Telegram:
+
+1. Create a Telegram group for the project
+2. Add your NanoClaw bot to the group
+3. Send a message to that group (so it appears in available_groups.json)
+4. In the main chat, tell Nina to register it:
+   - "Register the nanoclaw-dev group for NanoClaw development"
+5. Nina will find the group JID and add it to registered_groups.json
+
+**Access levels:**
+- Main group (Nina): Read-write to entire project
+- Project groups: Read-write to entire project (with security boundaries)
+- Other groups: Limited to their own folder (can be customized)
