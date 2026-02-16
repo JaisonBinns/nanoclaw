@@ -48,10 +48,58 @@ export class TelegramChannel implements Channel {
   }
 
   async sendMessage(chatId: string, text: string): Promise<void> {
+    const MAX_LENGTH = 4000; // Telegram limit is 4096, use 4000 for safety
+
     try {
       const numericId = parseInt(chatId, 10);
-      await this.bot.telegram.sendMessage(numericId, text);
-      logger.info({ chatId, length: text.length }, 'Telegram message sent');
+
+      // If message fits in one chunk, send directly
+      if (text.length <= MAX_LENGTH) {
+        await this.bot.telegram.sendMessage(numericId, text);
+        logger.info({ chatId, length: text.length }, 'Telegram message sent');
+        return;
+      }
+
+      // Split into chunks at newline boundaries when possible
+      const chunks: string[] = [];
+      let remaining = text;
+
+      while (remaining.length > 0) {
+        if (remaining.length <= MAX_LENGTH) {
+          chunks.push(remaining);
+          break;
+        }
+
+        // Try to split at a newline near the limit
+        const chunk = remaining.slice(0, MAX_LENGTH);
+        const lastNewline = chunk.lastIndexOf('\n');
+
+        if (lastNewline > MAX_LENGTH * 0.8) {
+          // Good split point found
+          chunks.push(remaining.slice(0, lastNewline));
+          remaining = remaining.slice(lastNewline + 1);
+        } else {
+          // No good newline, split at max length
+          chunks.push(chunk);
+          remaining = remaining.slice(MAX_LENGTH);
+        }
+      }
+
+      // Send all chunks
+      for (let i = 0; i < chunks.length; i++) {
+        const prefix = chunks.length > 1 ? `[${i + 1}/${chunks.length}] ` : '';
+        await this.bot.telegram.sendMessage(numericId, prefix + chunks[i]);
+
+        // Small delay between chunks to avoid rate limits
+        if (i < chunks.length - 1) {
+          await new Promise(resolve => setTimeout(resolve, 100));
+        }
+      }
+
+      logger.info(
+        { chatId, totalLength: text.length, chunks: chunks.length },
+        'Telegram message sent (chunked)',
+      );
     } catch (err) {
       logger.error({ chatId, err }, 'Failed to send Telegram message');
     }
