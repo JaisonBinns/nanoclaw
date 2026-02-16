@@ -110,6 +110,21 @@ function buildVolumeMounts(
     '.claude',
   );
   fs.mkdirSync(groupSessionsDir, { recursive: true });
+
+  // Generate Claude Code settings.json for agent teams and features
+  const settingsPath = path.join(groupSessionsDir, 'settings.json');
+  if (!fs.existsSync(settingsPath)) {
+    const settings = {
+      env: {
+        CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS: '1',
+        CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD: '1',
+        CLAUDE_CODE_DISABLE_AUTO_MEMORY: '0',
+      },
+    };
+    fs.writeFileSync(settingsPath, JSON.stringify(settings, null, 2));
+    logger.debug({ group: group.folder }, 'Created settings.json with agent teams enabled');
+  }
+
   mounts.push({
     hostPath: groupSessionsDir,
     containerPath: '/home/node/.claude',
@@ -162,6 +177,20 @@ function buildVolumeMounts(
       isMain,
     );
     mounts.push(...validatedMounts);
+  }
+
+  // Agent source mount (dev mode only)
+  // Enables live reload for agent code development
+  if (process.env.AGENT_DEV_MODE === '1') {
+    const agentRunnerSrc = path.join(projectRoot, 'container', 'agent-runner', 'src');
+    if (fs.existsSync(agentRunnerSrc)) {
+      mounts.push({
+        hostPath: agentRunnerSrc,
+        containerPath: '/app/src-live',
+        readonly: true,
+      });
+      logger.debug({ group: group.name }, 'Agent source mount enabled (dev mode)');
+    }
   }
 
   return mounts;

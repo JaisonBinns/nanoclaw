@@ -52,7 +52,17 @@ RUN mkdir -p /workspace/group /workspace/global /workspace/extra /workspace/ipc/
 
 # Create entrypoint script
 # Sources env from mounted /workspace/env-dir/env if it exists (workaround for Apple Container -i bug)
-RUN printf '#!/bin/bash\nset -e\n[ -f /workspace/env-dir/env ] && export $(cat /workspace/env-dir/env | xargs)\ncat > /tmp/input.json\nnode /app/dist/index.js < /tmp/input.json\n' > /app/entrypoint.sh && chmod +x /app/entrypoint.sh
+# In dev mode (AGENT_DEV_MODE=1), recompiles from /app/src-live mount for live reload
+RUN printf '#!/bin/bash\nset -e\n\
+[ -f /workspace/env-dir/env ] && export $(cat /workspace/env-dir/env | xargs)\n\
+cat > /tmp/input.json\n\
+if [ -d /app/src-live ]; then\n\
+  echo "[agent-runner] Recompiling live source..." >&2\n\
+  npx tsc --project /app/src-live/tsconfig.json --outDir /tmp/dist\n\
+  node /tmp/dist/index.js < /tmp/input.json\n\
+else\n\
+  node /app/dist/index.js < /tmp/input.json\n\
+fi\n' > /app/entrypoint.sh && chmod +x /app/entrypoint.sh
 
 # Set ownership to node user (non-root) for writable directories
 RUN chown -R node:node /workspace
