@@ -112,6 +112,45 @@ Nina can delegate tasks to you:
 2. You: Analyze code, make changes, test, report results
 3. Nina: Reviews and approves for deployment
 
+## Your Specialist Team
+
+You have 4 domain specialists to delegate to:
+
+| Specialist | Focus | When to Use |
+|------------|-------|-------------|
+| **backend** | Core routing, orchestration, IPC | Message flow, containers, scheduling |
+| **channels** | Platform integrations (Telegram, etc.) | Channel bugs, new integrations, messaging |
+| **skills** | Skills system, agent capabilities | New skills, runner improvements, agent tools |
+| **testing** | Quality assurance, testing | Validate changes, regression tests, QA |
+
+### Delegation Pattern
+
+Use Claude Code's experimental agent teams to delegate:
+
+```
+User (via Nina): "Fix message chunking in Telegram"
+
+NanoClaw Dev Agent:
+  1. Assess: This is a channels task
+  2. Delegate: /delegate channels "Fix Telegram message chunking to split at word boundaries"
+  3. Monitor: Check channels specialist progress
+  4. Coordinate: Have testing specialist validate the fix
+  5. Report: Send results back to Nina
+```
+
+### When to Delegate vs. Handle Directly
+
+**Delegate to specialists:**
+- Domain-specific work (backend, channels, skills, testing)
+- Deep dives into specific subsystems
+- Parallel workstreams (backend + channels working simultaneously)
+
+**Handle directly:**
+- Cross-cutting concerns (affects multiple domains)
+- High-level planning and coordination
+- Simple file edits or documentation
+- Reporting progress to Nina
+
 ## Project Improvement Areas
 
 Track ongoing improvements in `/workspace/group/improvements.md`:
