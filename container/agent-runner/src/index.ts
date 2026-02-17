@@ -272,6 +272,7 @@ async function main(): Promise<void> {
       options: {
         cwd: '/workspace/group',
         resume: input.sessionId,
+        model: 'claude-opus-4-5',
         systemPrompt: globalClaudeMd
           ? { type: 'preset' as const, preset: 'claude_code' as const, append: globalClaudeMd }
           : undefined,
