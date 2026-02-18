@@ -314,6 +314,46 @@ Use available_groups.json to find the JID for a group. The folder name should be
             }]
           };
         }
+      ),
+
+      tool(
+        'restart_service',
+        `Restart the NanoClaw service. Main group only.
+
+This triggers a graceful restart of NanoClaw using launchctl. The service will:
+1. Stop the current process
+2. Reload configuration (including newly registered groups)
+3. Start a new process
+
+Use this after:
+- Registering new groups
+- Pulling code updates and rebuilding
+- Configuration changes
+
+The restart happens asynchronously - the current agent will finish execution first.`,
+        {},
+        async () => {
+          if (!isMain) {
+            return {
+              content: [{ type: 'text', text: 'Only the main group can restart the service.' }],
+              isError: true
+            };
+          }
+
+          const data = {
+            type: 'restart_service',
+            timestamp: new Date().toISOString()
+          };
+
+          writeIpcFile(TASKS_DIR, data);
+
+          return {
+            content: [{
+              type: 'text',
+              text: 'Service restart triggered. NanoClaw will restart shortly and pick up any configuration changes.'
+            }]
+          };
+        }
       )
     ]
   });

@@ -388,6 +388,42 @@ async function processTaskIpc(
       }
       break;
 
+    case 'restart_service':
+      // Only main group can restart the service
+      if (!isMain) {
+        logger.warn(
+          { sourceGroup },
+          'Unauthorized restart_service attempt blocked',
+        );
+        break;
+      }
+
+      logger.info('Service restart requested via IPC');
+
+      // Use launchctl to restart the service
+      // This works because NanoClaw runs via launchd (com.nanoclaw.plist)
+      const { exec } = await import('child_process');
+      const { promisify } = await import('util');
+      const execAsync = promisify(exec);
+
+      try {
+        // Try user service first (most common)
+        await execAsync('launchctl kickstart -k gui/$(id -u)/com.nanoclaw');
+        logger.info('Service restart triggered successfully (user service)');
+      } catch (userErr) {
+        try {
+          // Fallback to system service
+          await execAsync('launchctl kickstart -k system/com.nanoclaw');
+          logger.info('Service restart triggered successfully (system service)');
+        } catch (systemErr) {
+          logger.error(
+            { userErr, systemErr },
+            'Failed to restart service via launchctl',
+          );
+        }
+      }
+      break;
+
     default:
       logger.warn({ type: data.type }, 'Unknown IPC task type');
   }
