@@ -1,0 +1,8 @@
+[
+  {
+    "id": "rebuild-nanoclaw",
+    "execute-command": "/Users/macserver/nanoclaw/rebuild.sh",
+    "command-working-directory": "/Users/macserver/nanoclaw",
+    "response-message": "Rebuild triggered"
+  }
+]

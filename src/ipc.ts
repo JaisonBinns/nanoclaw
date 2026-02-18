@@ -35,13 +35,13 @@ export interface IpcDeps {
   registerGroup: (jid: string, group: RegisteredGroup) => void;
 }
 
+let ipcWatcherRunning = false;
+
 /**
  * Start the IPC watcher loop.
  * Polls data/ipc/{group}/messages and tasks directories for JSON files.
  */
 export function startIpcWatcher(deps: IpcDeps): void {
-  let ipcWatcherRunning = false;
-
   if (ipcWatcherRunning) {
     logger.debug('IPC watcher already running, skipping duplicate start');
     return;
@@ -184,6 +184,7 @@ async function processTaskIpc(
     name?: string;
     folder?: string;
     trigger?: string;
+    requiresTrigger?: boolean;
     containerConfig?: RegisteredGroup['containerConfig'];
   },
   sourceGroup: string, // Verified identity from IPC directory
@@ -379,6 +380,7 @@ async function processTaskIpc(
           trigger: data.trigger,
           added_at: new Date().toISOString(),
           containerConfig: data.containerConfig,
+          requiresTrigger: data.requiresTrigger,
         });
       } else {
         logger.warn(

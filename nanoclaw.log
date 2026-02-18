@@ -1,0 +1,1866 @@
+[23:59:43.742] [32mINFO[39m (20044): [36mDatabase initialized[39m
+[23:59:43.743] [32mINFO[39m (20044): [36mState loaded[39m
+    [35mgroupCount[39m: 1
+[23:59:44.056] [32mINFO[39m (20044): [36mTelegram bot authenticated[39m
+    [35mbotUsername[39m: "nina_nanoclaw_bot"
+[23:59:44.057] [32mINFO[39m (20044): [36mTelegram bot started (long-polling)[39m
+[23:59:44.059] [32mINFO[39m (20044): [36mScheduler loop started[39m
+[23:59:44.063] [32mINFO[39m (20044): [36mIPC watcher started (per-group namespaces)[39m
+[23:59:44.063] [32mINFO[39m (20044): [36mNanoClaw running (trigger: @Nina)[39m
+[00:03:26.252] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[00:03:26.258] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[00:03:26.667] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771218206667"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[00:03:40.635] [32mINFO[39m (20044): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 13969
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[00:03:40.866] [32mINFO[39m (20044): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 69
+[00:22:27.530] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[00:22:27.534] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[00:22:27.944] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771219347944"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[00:22:48.713] [32mINFO[39m (20044): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 20769
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[00:22:48.944] [32mINFO[39m (20044): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 868
+[00:29:50.078] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[00:29:50.083] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[00:29:50.297] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771219790297"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[00:30:20.875] [32mINFO[39m (20044): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 30578
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[00:30:21.104] [32mINFO[39m (20044): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 801
+[00:39:42.810] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[00:39:42.814] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[00:39:43.071] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771220383071"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[00:42:10.499] [32mINFO[39m (20044): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 147428
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[00:42:10.742] [32mINFO[39m (20044): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 970
+[00:58:18.191] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[00:58:18.194] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[00:58:18.634] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771221498634"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[00:59:24.708] [32mINFO[39m (20044): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 66074
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[00:59:24.950] [32mINFO[39m (20044): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1044
+[01:09:46.798] [32mINFO[39m (20044): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:09:46.802] [32mINFO[39m (20044): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:09:47.034] [32mINFO[39m (20044): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771222187034"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:10:29.697] [32mINFO[39m (20044): [36mShutdown signal received[39m
+    [35msignal[39m: "SIGTERM"
+[01:10:29.700] [32mINFO[39m (20044): [36mGroupQueue shutting down[39m
+    [35mactiveCount[39m: 1
+    [35mgracePeriodMs[39m: 10000
+[01:10:29.700] [32mINFO[39m (20044): [36mStopping container[39m
+    [35mjid[39m: "6863995397"
+    [35mcontainerName[39m: "nanoclaw-main-1771222187034"
+[01:10:29.713] [33mWARN[39m (20044): [36mcontainer stop failed[39m
+    [35mjid[39m: "6863995397"
+    [35mcontainerName[39m: "nanoclaw-main-1771222187034"
+    err: "Command failed: container stop nanoclaw-main-1771222187034\n/bin/sh: container: command not found\n"
+[01:10:35.046] [32mINFO[39m (30287): [36mDatabase initialized[39m
+[01:10:35.047] [32mINFO[39m (30287): [36mState loaded[39m
+    [35mgroupCount[39m: 1
+[01:10:35.371] [32mINFO[39m (30287): [36mTelegram bot authenticated[39m
+    [35mbotUsername[39m: "nina_nanoclaw_bot"
+[01:10:35.372] [32mINFO[39m (30287): [36mTelegram bot started (long-polling)[39m
+[01:10:35.374] [32mINFO[39m (30287): [36mScheduler loop started[39m
+[01:10:35.377] [32mINFO[39m (30287): [36mIPC watcher started (per-group namespaces)[39m
+[01:10:35.378] [32mINFO[39m (30287): [36mRecovery: found unprocessed messages[39m
+    [35mgroup[39m: "main"
+    [35mpendingCount[39m: 1
+[01:10:35.378] [32mINFO[39m (30287): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:10:35.379] [32mINFO[39m (30287): [36mNanoClaw running (trigger: @Nina)[39m
+[01:10:35.797] [32mINFO[39m (30287): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771222235796"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:11:12.580] [32mINFO[39m (30287): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 36784
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:11:12.817] [32mINFO[39m (30287): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2337
+[01:13:37.538] [32mINFO[39m (30287): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:13:37.542] [32mINFO[39m (30287): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:13:37.876] [32mINFO[39m (30287): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771222417876"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:14:24.995] [32mINFO[39m (30287): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 47119
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:14:25.227] [32mINFO[39m (30287): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 3315
+[01:19:41.913] [32mINFO[39m (30287): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:19:41.918] [32mINFO[39m (30287): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:19:42.147] [32mINFO[39m (30287): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771222782147"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:20:32.265] [32mINFO[39m (30287): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 50118
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:20:32.520] [32mINFO[39m (30287): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 3461
+[01:24:14.241] [32mINFO[39m (30287): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:24:14.246] [32mINFO[39m (30287): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:24:14.506] [32mINFO[39m (30287): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771223054506"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:25:03.052] [32mINFO[39m (30287): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 48546
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:25:03.164] [31mERROR[39m (30287): [36mFailed to send Telegram message[39m
+    [35mchatId[39m: "6863995397"
+    err: {
+      "type": "TelegramError",
+      "message": "400: Bad Request: message is too long",
+      "stack":
+          Error: 400: Bad Request: message is too long
+              at Telegram.callApi (/Users/macserver/nanoclaw/node_modules/telegraf/lib/core/network/client.js:315:19)
+              at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+              at async TelegramChannel.sendMessage (file:///Users/macserver/nanoclaw/dist/channels/telegram.js:39:13)
+              at async sendMessage (file:///Users/macserver/nanoclaw/dist/index.js:189:5)
+              at async GroupQueue.processGroupMessages [as processMessagesFn] (file:///Users/macserver/nanoclaw/dist/index.js:141:9)
+              at async GroupQueue.runForGroup (file:///Users/macserver/nanoclaw/dist/group-queue.js:87:33)
+      "response": {
+        "ok": false,
+        "error_code": 400,
+        "description": "Bad Request: message is too long"
+      },
+      "on": {
+        "method": "sendMessage",
+        "payload": {
+          "chat_id": 6863995397,
+          "text": "Nina: **Agent Teams Explained** 👥\n\nAgent Teams let me delegate specialized tasks to specialist agents. Think of it like having a team of experts I can call on, each focused on a specific domain.\n\n## 🎯 **The Core Concept**\n\nInstead of me (Nina, the main agent) doing everything, I can create and delegate to specialists:\n- **Frontend Specialist** - React, UI/UX, styling\n- **Backend Specialist** - APIs, databases, auth\n- **Testing Specialist** - Tests, QA, validation\n- **Database Specialist** - SQL, migrations, optimization\n\nEach specialist has:\n- Its own `CLAUDE.md` with focused instructions\n- Access to the same workspace and tools\n- Clear responsibilities and domain expertise\n- Isolation from other groups (same security boundaries)\n\n## 📂 **How It's Structured**\n\n```\ngroups/main/\n  CLAUDE.md                    # Me (Nina, main agent)\n  agents/\n    frontend/\n      CLAUDE.md                # Frontend specialist\n    backend/\n      CLAUDE.md                # Backend specialist\n    database/\n      CLAUDE.md                # Database specialist\n    testing/\n      CLAUDE.md                # Testing specialist\n```\n\n## 💬 **How It Works in Practice**\n\n**You:** \"Add user authentication to the blog site\"\n\n**Me (Main Agent):** \n\"I'll coordinate this feature across the team.\"\n\n1. I analyze the request and break it down\n2. I delegate to specialists:\n   - `/delegate database \"Add users table with email, password_hash\"`\n   - `/delegate backend \"Create /auth/login and /auth/register endpoints\"`\n   - `/delegate frontend \"Build login and registration forms\"`\n3. Specialists work in parallel\n4. I integrate their work and coordinate\n5. `/delegate testing \"Write integration tests for auth\"`\n\n**Result:** Complete feature built by specialists, coordinated by me.\n\n## 🚀 **Real-World Example**\n\nLet's say you ask: **\"Build a todo list feature with API and UI\"**\n\n**I would:**\n\n1. **Plan** the architecture\n2. **Database specialist** creates:\n   ```sql\n   CREATE TABLE todos (\n     id SERIAL PRIMARY KEY,\n     user_id INT,\n     title TEXT,\n     done BOOLEAN,\n     created_at TIMESTAMP\n   );\n   ```\n\n3. **Backend specialist** builds:\n   - `GET /api/todos` - List todos\n   - `POST /api/todos` - Create todo\n   - `PUT /api/todos/:id` - Update todo\n   - `DELETE /api/todos/:id` - Delete todo\n\n4. **Frontend specialist** creates:\n   - Todo list component\n   - Add todo form\n   - Edit/delete buttons\n   - Responsive styling\n\n5. **Testing specialist** writes:\n   - Unit tests for components\n   - API integration tests\n   - E2E user flow tests\n\n6. **I coordinate** to make sure everything integrates properly\n\nAll happening in parallel!\n\n## 🎨 **Example Specialist CLAUDE.md**\n\n```markdown\n# Frontend Specialist\n\nYou are a frontend specialist focusing on React, TypeScript, and UI/UX.\n\n## Responsibilities\n- Implement React components\n- Handle styling and responsiveness\n- Optimize frontend performance\n- Ensure accessibility\n\n## Tech Stack\n- React 18\n- TypeScript\n- Tailwind CSS\n- Vite\n\n## Guidelines\n- Use functional components with hooks\n- Write accessible HTML (ARIA labels, semantic elements)\n- Mobile-first responsive design\n- Performance: lazy loading, code splitting\n```\n\n## 🔐 **Security & Permissions**\n\nSpecialists inherit the parent group's permissions:\n- **Main group specialists**: Full access to project, can use all IPC commands\n- **Other group specialists**: Limited to their group folder\n\nSpecialists **cannot**:\n- Access other groups' data\n- Bypass mount restrictions\n- Escalate privileges beyond parent group\n\n## 🌟 **When to Use Agent Teams**\n\n**Use specialists for:**\n- ✅ Large features with multiple domains (frontend + backend + database)\n- ✅ Complex workflows that benefit from role separation\n- ✅ Parallel work (multiple agents working simultaneously)\n- ✅ Domain expertise (React specialist, SQL specialist, DevOps specialist)\n\n**Don't use for:**\n- ❌ Simple, single-domain tasks\n- ❌ Quick edits or bug fixes\n- ❌ Tasks I can handle directly\n\n## ⚙️ **How to Set It Up**\n\nIt's already enabled! The update added automatic configuration:\n\n```json\n// .claude/settings.json (auto-generated)\n{\n  \"env\": {\n    \"CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS\": \"1\"\n  }\n}\n```\n\n**To create a specialist:**\n\n1. Make the directory:\n   ```bash\n   mkdir -p groups/main/agents/frontend\n   ```\n\n2. Create their CLAUDE.md:\n   ```bash\n   # Define their role, responsibilities, tech stack\n   ```\n\n3. Delegate from me:\n   ```\n   /delegate frontend \"Build the user dashboard\"\n   ```\n\n## 💡 **Best Practices**\n\n1. **Keep specialists focused** - Each has a narrow, clear domain\n2. **Document handoffs** - Provide context when delegating\n3. **Use shared context** - Specialists can reference shared docs\n4. **Coordinate via main agent** - I orchestrate, specialists execute\n5. **Monitor activity** - Check logs to see what specialists are doing\n\n## 🎪 **The Big Picture**\n\nThink of it like a software team:\n- **You** = Product owner (gives requirements)\n- **Me (Nina)** = Tech lead (plans, coordinates, delegates)\n- **Specialists** = Engineers (frontend dev, backend dev, DBA, QA)\n\nInstead of me doing everything myself (which works fine for simple tasks), I can assemble a team of experts for complex features. This makes development faster, more organized, and higher quality.\n\n**Want to try it?** I can create a specialist agent for your blog site (like a \"blog specialist\" for writing/managing posts) or we could set up a full team for a new project! 🚀"
+        }
+      }
+    }
+[01:34:42.837] [32mINFO[39m (30287): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:34:42.842] [32mINFO[39m (30287): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:34:43.058] [32mINFO[39m (30287): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771223683058"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:35:26.019] [32mINFO[39m (30287): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 42961
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:35:26.165] [32mINFO[39m (30287): [36mShutdown signal received[39m
+    [35msignal[39m: "SIGTERM"
+[01:35:26.167] [32mINFO[39m (30287): [36mGroupQueue shutting down[39m
+    [35mactiveCount[39m: 1
+    [35mgracePeriodMs[39m: 10000
+[01:35:26.167] [32mINFO[39m (30287): [36mStopping container[39m
+    [35mjid[39m: "6863995397"
+    [35mcontainerName[39m: "nanoclaw-main-1771223683058"
+[01:35:26.178] [33mWARN[39m (30287): [36mcontainer stop failed[39m
+    [35mjid[39m: "6863995397"
+    [35mcontainerName[39m: "nanoclaw-main-1771223683058"
+    err: "Command failed: container stop nanoclaw-main-1771223683058\n/bin/sh: container: command not found\n"
+[01:35:26.250] [32mINFO[39m (30287): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1040
+[01:35:27.506] [32mINFO[39m (34158): [36mDatabase initialized[39m
+[01:35:27.506] [32mINFO[39m (34158): [36mState loaded[39m
+    [35mgroupCount[39m: 1
+[01:35:27.837] [32mINFO[39m (34158): [36mTelegram bot authenticated[39m
+    [35mbotUsername[39m: "nina_nanoclaw_bot"
+[01:35:27.837] [32mINFO[39m (34158): [36mTelegram bot started (long-polling)[39m
+[01:35:27.840] [32mINFO[39m (34158): [36mScheduler loop started[39m
+[01:35:27.844] [32mINFO[39m (34158): [36mIPC watcher started (per-group namespaces)[39m
+[01:35:27.844] [32mINFO[39m (34158): [36mNanoClaw running (trigger: @Nina)[39m
+[01:36:55.918] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:36:55.922] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:36:56.389] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771223816389"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:37:39.309] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 42921
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:37:39.927] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1004
+[01:40:44.108] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:40:44.111] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:40:44.333] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771224044333"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:41:37.092] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 52759
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:41:37.332] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1319
+[01:42:54.228] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:42:54.232] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:42:54.456] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771224174456"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:43:22.125] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 27669
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:43:22.366] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 931
+[01:44:28.304] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:44:28.308] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:44:28.543] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771224268543"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:44:48.326] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[01:45:03.228] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 34685
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:45:03.806] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 4145
+    [35mchunks[39m: 2
+[01:45:03.807] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[01:45:04.032] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771224304032"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[01:45:42.869] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 38837
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[01:45:43.459] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 4537
+    [35mchunks[39m: 2
+[02:07:05.513] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[02:07:05.517] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[02:07:05.924] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771225625924"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[02:07:15.510] [32mINFO[39m (34158): [36mGroup metadata refresh requested via IPC[39m
+    [35msourceGroup[39m: "main"
+[02:07:44.019] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 38095
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[02:07:44.253] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1022
+[02:10:37.680] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[02:10:37.683] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[02:10:37.909] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771225837909"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[02:11:41.644] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 63735
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[02:11:41.871] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1192
+[02:50:21.777] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[02:50:21.781] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[02:50:22.202] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771228222202"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[02:51:08.661] [32mINFO[39m (34158): [36mTask created via IPC[39m
+    [35mtaskId[39m: "task-1771228268658-d5rl6t"
+    [35msourceGroup[39m: "main"
+    [35mtargetFolder[39m: "main"
+    [35mcontextMode[39m: "isolated"
+[02:51:30.873] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 68670
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[02:51:31.117] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1448
+[03:00:27.889] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[03:00:27.890] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771228268658-d5rl6t"
+    [35mgroup[39m: "main"
+[03:00:27.893] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771228827893"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[03:01:08.011] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 456
+[03:01:08.011] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[03:01:18.938] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 51045
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[03:01:18.938] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771228268658-d5rl6t"
+    [35mdurationMs[39m: 51048
+[03:11:34.793] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[03:11:34.798] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[03:11:35.025] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771229495025"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[03:12:29.127] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 54102
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[03:12:29.355] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 807
+[08:00:28.242] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 5
+[08:00:28.243] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770598967007-1xqwyt"
+    [35mgroup[39m: "main"
+[08:00:28.247] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771246828246"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:00:44.324] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 72
+[08:00:44.324] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:00:44.332] [32mINFO[39m (34158): [36mTask created via IPC[39m
+    [35mtaskId[39m: "task-1771246844330-w5cybh"
+    [35msourceGroup[39m: "main"
+    [35mtargetFolder[39m: "main"
+    [35mcontextMode[39m: "isolated"
+[08:00:59.095] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 30848
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:00:59.329] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 667
+[08:00:59.329] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770598967007-1xqwyt"
+    [35mdurationMs[39m: 31086
+[08:00:59.336] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mgroup[39m: "main"
+[08:00:59.338] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771246859338"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:01:28.252] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 4
+[08:02:22.839] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2461
+[08:02:22.839] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:02:28.254] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 4
+[08:02:38.454] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 99116
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:02:38.454] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mdurationMs[39m: 99118
+[08:02:38.460] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mgroup[39m: "main"
+[08:02:38.461] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771246958461"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:02:51.165] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 112
+[08:02:51.165] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:03:28.255] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 3
+[08:04:28.258] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 3
+[08:05:28.261] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 3
+[08:05:36.160] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 6034
+    [35mchunks[39m: 2
+[08:05:36.160] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:05:48.706] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 190244
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:05:48.706] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mdurationMs[39m: 190246
+[08:05:48.711] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mgroup[39m: "main"
+[08:05:48.713] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771247148713"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:06:02.454] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 129
+[08:06:02.454] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:06:13.220] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 24508
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:06:13.220] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mdurationMs[39m: 24509
+[08:06:13.226] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mgroup[39m: "main"
+[08:06:13.227] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771247173227"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:06:27.748] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 150
+[08:06:27.748] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:06:28.264] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[08:06:44.282] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 31054
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:06:44.521] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 446
+[08:06:44.521] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mdurationMs[39m: 31295
+[08:06:44.527] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mgroup[39m: "main"
+[08:06:44.529] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771247204529"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:08:27.307] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 3598
+[08:08:27.307] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:08:39.431] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 114901
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:08:39.431] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mdurationMs[39m: 114904
+[08:08:39.436] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mgroup[39m: "main"
+[08:08:39.438] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771247319438"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:08:53.603] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 208
+[08:08:53.603] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:09:09.399] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 29962
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:09:09.623] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 269
+[08:09:09.623] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mdurationMs[39m: 30187
+[08:09:09.629] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mgroup[39m: "main"
+[08:09:09.631] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771247349631"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:09:22.917] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 110
+[08:09:22.918] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:09:37.389] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 27758
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:09:37.617] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 474
+[08:09:37.617] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mdurationMs[39m: 27988
+[08:21:17.568] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:21:17.572] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:21:17.999] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771248077999"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:22:01.128] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 43129
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:22:01.356] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1573
+[08:29:26.169] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:29:26.172] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:29:26.395] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771248566395"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:30:11.681] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 45286
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:30:11.921] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2891
+[08:32:04.364] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:32:04.368] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:32:04.590] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771248724590"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:34:17.537] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 132947
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:34:17.780] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1907
+[08:55:16.091] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:55:16.095] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:55:16.497] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250116497"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:56:02.065] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 45568
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:56:02.329] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1140
+[08:58:04.317] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:58:04.321] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:58:04.539] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250284539"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:58:19.734] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 15194
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:58:19.961] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 899
+[08:59:04.395] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[08:59:04.398] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[08:59:04.612] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250344612"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:59:32.612] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 28000
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:59:32.842] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 889
+[09:00:16.487] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[09:00:16.491] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[09:00:16.715] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250416715"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:00:28.330] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[09:00:42.523] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[09:01:24.224] [33mWARN[39m (34158): [36mUnknown IPC task type[39m
+    [35mtype[39m: "restart_service"
+[09:01:28.333] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[09:01:44.218] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 87503
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:01:44.453] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1098
+[09:01:44.454] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[09:01:44.457] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250504457"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:02:28.334] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[09:02:51.680] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 854
+[09:02:51.680] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:03:09.108] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 84652
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:03:09.109] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 84656
+[09:03:09.114] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[09:03:09.115] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250589115"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:03:16.968] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[09:03:16.968] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:05:09.502] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1308
+[09:05:09.502] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:05:21.044] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 131928
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:05:21.044] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 131931
+[09:05:21.047] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[09:05:21.270] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771250721270"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:05:39.646] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 18375
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:05:39.885] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 627
+[09:10:29.246] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[09:10:29.250] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[09:10:29.489] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771251029489"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:10:41.356] [33mWARN[39m (34158): [36mUnknown IPC task type[39m
+    [35mtype[39m: "restart_service"
+[09:10:59.503] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 30014
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:10:59.755] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 423
+[10:17:27.280] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[10:17:27.285] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[10:17:27.711] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771255047711"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[10:19:04.663] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 96952
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[10:19:04.905] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1648
+[14:01:26.102] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[14:01:26.106] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[14:01:26.564] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771268486564"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[14:01:54.149] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 27585
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[14:01:54.414] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2122
+[14:09:20.513] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[14:09:20.515] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[14:09:20.738] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771268960738"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[14:09:45.351] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 24613
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[14:09:45.598] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2169
+[14:20:36.981] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[14:20:36.987] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[14:20:37.413] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771269637413"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[14:20:50.678] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 13265
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[14:20:50.913] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 505
+[21:00:29.128] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:00:29.129] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[21:00:29.133] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771293629133"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[21:00:33.469] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[21:00:33.469] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:01:29.138] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:02:08.952] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 2208
+[21:02:08.952] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:02:21.567] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 112433
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[21:02:21.567] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 112439
+[21:02:21.574] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[21:02:21.575] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771293741575"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[21:02:25.212] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[21:02:25.212] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:04:51.378] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 149802
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[21:04:51.656] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1695
+[21:04:51.656] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 150082
+[23:11:03.921] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[23:11:03.926] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[23:11:04.349] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771301464349"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[23:11:19.285] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 14935
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[23:11:19.515] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 162
+[23:13:28.101] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[23:13:28.106] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[23:13:28.356] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771301608356"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[23:13:51.658] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 23301
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[23:13:51.887] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 284
+[03:00:29.586] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[03:00:29.586] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771228268658-d5rl6t"
+    [35mgroup[39m: "main"
+[03:00:29.590] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771315229590"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[03:00:44.714] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 15123
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[03:00:44.714] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771228268658-d5rl6t"
+    [35mdurationMs[39m: 15128
+[08:00:29.970] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 6
+[08:00:29.970] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770598967007-1xqwyt"
+    [35mgroup[39m: "main"
+[08:00:29.975] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333229975"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:00:35.975] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 148
+[08:00:35.975] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:00:56.035] [32mINFO[39m (34158): [36mTask created via IPC[39m
+    [35mtaskId[39m: "task-1771333256031-cxf7qj"
+    [35msourceGroup[39m: "main"
+    [35mtargetFolder[39m: "main"
+    [35mcontextMode[39m: "isolated"
+[08:01:09.377] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 39403
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:01:09.378] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770598967007-1xqwyt"
+    [35mdurationMs[39m: 39408
+[08:01:09.383] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mgroup[39m: "main"
+[08:01:09.385] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333269385"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:01:29.977] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 5
+[08:02:29.980] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 5
+[08:03:10.953] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 6285
+    [35mchunks[39m: 2
+[08:03:10.953] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:03:28.758] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 139373
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:03:28.758] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mdurationMs[39m: 139375
+[08:03:28.764] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mgroup[39m: "main"
+[08:03:28.765] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333408765"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:03:29.980] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 4
+[08:03:34.238] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 111
+[08:03:34.238] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:04:29.981] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 4
+[08:05:29.982] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 4
+[08:05:31.095] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 4249
+    [35mchunks[39m: 2
+[08:05:31.096] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:05:45.163] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 136398
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:05:45.163] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mdurationMs[39m: 136399
+[08:05:45.166] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mgroup[39m: "main"
+[08:05:45.168] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333545168"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:05:49.366] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 62
+[08:05:49.366] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:06:29.984] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 3
+[08:07:29.986] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 3
+[08:07:53.276] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5130
+    [35mchunks[39m: 2
+[08:07:53.277] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:08:07.118] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 141950
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:08:07.118] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mdurationMs[39m: 141952
+[08:08:07.122] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mgroup[39m: "main"
+[08:08:07.124] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333687124"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:08:11.540] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 134
+[08:08:11.540] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:08:29.988] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 2
+[08:09:29.990] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 2
+[08:10:29.992] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 2
+[08:11:29.994] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 2
+[08:11:59.720] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5270
+    [35mchunks[39m: 2
+[08:11:59.720] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:12:15.905] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 248782
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:12:15.905] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mdurationMs[39m: 248783
+[08:12:15.911] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771246844330-w5cybh"
+    [35mgroup[39m: "main"
+[08:12:15.913] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771333935913"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:12:19.983] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 69
+[08:12:19.983] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:12:29.995] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[08:13:29.997] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[08:14:24.881] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5219
+    [35mchunks[39m: 2
+[08:14:24.881] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:14:29.999] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[08:14:34.000] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 138088
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:14:34.000] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771246844330-w5cybh"
+    [35mdurationMs[39m: 138089
+[08:14:34.003] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mgroup[39m: "main"
+[08:14:34.005] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771334074005"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:17:17.898] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 6457
+    [35mchunks[39m: 2
+[08:17:17.898] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:17:36.433] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 182428
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:17:36.433] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815099257-6rra37"
+    [35mdurationMs[39m: 182430
+[08:17:36.439] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mgroup[39m: "main"
+[08:17:36.441] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771334256441"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:17:41.189] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 116
+[08:17:41.189] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:20:14.363] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5266
+    [35mchunks[39m: 2
+[08:20:14.363] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:20:30.692] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 174251
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:20:30.692] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770815442163-0n4zgj"
+    [35mdurationMs[39m: 174253
+[08:20:30.696] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mgroup[39m: "main"
+[08:20:30.698] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771334430698"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:20:34.624] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 86
+[08:20:34.624] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:20:57.077] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 26380
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:20:57.077] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771122813474-pq7bis"
+    [35mdurationMs[39m: 26381
+[08:20:57.080] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mgroup[39m: "main"
+[08:20:57.082] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771334457082"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:21:01.917] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 170
+[08:21:01.917] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:24:31.023] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5586
+    [35mchunks[39m: 2
+[08:24:31.023] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:24:48.436] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 231353
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:24:48.436] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771160417594-lo8ez8"
+    [35mdurationMs[39m: 231356
+[08:24:48.441] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1771246844330-w5cybh"
+    [35mgroup[39m: "main"
+[08:24:48.443] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771334688443"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[08:24:52.289] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 58
+[08:24:52.289] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:27:34.284] [32mINFO[39m (34158): [36mTelegram message sent (chunked)[39m
+    [35mchatId[39m: "6863995397"
+    [35mtotalLength[39m: 5109
+    [35mchunks[39m: 2
+[08:27:34.284] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[08:27:49.791] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 181349
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[08:27:49.791] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1771246844330-w5cybh"
+    [35mdurationMs[39m: 181350
+[09:00:30.062] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[09:00:30.062] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[09:00:30.067] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771336830067"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:00:33.966] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[09:00:33.966] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:01:30.071] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[09:02:05.457] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1828
+[09:02:05.457] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:02:19.137] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 109070
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:02:19.137] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 109075
+[09:02:19.142] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[09:02:19.144] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771336939144"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[09:02:23.730] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[09:02:23.730] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:03:24.122] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1045
+[09:03:24.122] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[09:03:36.684] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 77540
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[09:03:36.684] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 77542
+[12:22:38.633] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:22:38.637] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:22:39.122] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771348959122"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:23:11.417] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 32295
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:23:11.655] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 112
+[12:38:33.808] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:38:33.812] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:38:34.230] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771349914230"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:38:51.493] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 17263
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:38:51.726] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 334
+[12:39:37.891] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:39:37.896] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:39:38.118] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771349978118"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:40:18.464] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 40346
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:40:18.704] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 441
+[12:41:12.013] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:41:12.017] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:41:12.235] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771350072235"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:41:27.691] [33mWARN[39m (34158): [36mUnknown IPC task type[39m
+    [35mtype[39m: "restart_service"
+[12:41:41.764] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 29529
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:41:41.995] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 344
+[12:44:54.287] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:44:54.291] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:44:54.517] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771350294517"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:45:07.524] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 13007
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:45:07.798] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 305
+[12:50:22.699] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[12:50:22.702] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[12:50:22.921] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771350622921"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[12:50:43.143] [33mWARN[39m (34158): [36mUnknown IPC task type[39m
+    [35mtype[39m: "restart_service"
+[12:50:56.438] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 33516
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[12:50:56.662] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 254
+[13:09:52.137] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:09:52.141] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:09:52.542] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771351792542"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:10:10.430] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 17887
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:10:10.729] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 588
+[13:16:34.644] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:16:34.646] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:16:34.856] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352194856"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:16:51.537] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 16681
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:16:51.764] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 441
+[13:17:52.746] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:17:52.750] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:17:52.961] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352272961"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:18:20.283] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 27323
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:18:20.527] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 462
+[13:19:30.870] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:19:30.875] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:19:31.134] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352371134"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:19:46.721] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 15588
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:19:46.958] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 826
+[13:22:59.120] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:22:59.124] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:22:59.339] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352579339"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:23:11.274] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 11935
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:23:11.503] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 387
+[13:23:41.177] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:23:41.181] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:23:41.393] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352621393"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:23:49.379] [33mWARN[39m (34158): [36mUnknown IPC task type[39m
+    [35mtype[39m: "restart_service"
+[13:24:06.114] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 24720
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:24:06.336] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 214
+[13:26:29.384] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:26:29.386] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:26:29.591] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771352789591"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:26:41.462] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 11870
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:26:41.681] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 245
+[13:29:59.648] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:29:59.652] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:30:00.053] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771353000053"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:30:12.550] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 12497
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:30:12.765] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 177
+[13:33:15.885] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:33:15.889] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:33:16.111] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771353196111"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:33:29.683] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 13572
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:33:29.897] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 461
+[13:34:21.978] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[13:34:21.983] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[13:34:22.185] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771353262185"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[13:36:03.036] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 100851
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[13:36:03.277] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1216
+[21:00:30.964] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:00:30.965] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[21:00:30.969] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771380030969"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[21:00:47.684] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 68
+[21:00:47.684] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:01:30.972] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:02:30.974] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:03:21.350] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 974
+[21:03:21.350] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:03:30.975] [32mINFO[39m (34158): [36mFound due tasks[39m
+    [35mcount[39m: 1
+[21:03:33.012] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 182043
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[21:03:33.012] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 182048
+[21:03:33.017] [32mINFO[39m (34158): [36mRunning scheduled task[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mgroup[39m: "main"
+[21:03:33.019] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771380213019"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[21:03:46.635] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 105
+[21:03:46.635] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:05:32.157] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 1088
+[21:05:32.157] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[21:05:42.773] [32mINFO[39m (34158): [36mContainer completed[39m
+    [35mgroup[39m: "main"
+    [35mduration[39m: 129753
+    [35mstatus[39m: "success"
+    [35mhasResult[39m: true
+[21:05:42.773] [32mINFO[39m (34158): [36mTask completed[39m
+    [35mtaskId[39m: "task-1770497123612-5fpppf"
+    [35mdurationMs[39m: 129756
+[22:27:11.494] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
+[22:27:11.498] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[22:27:11.912] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771385231912"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[22:32:11.912] [31mERROR[39m (34158): [36mContainer timeout, stopping gracefully[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771385231912"
+[22:32:22.076] [31mERROR[39m (34158): [36mContainer timed out[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771385231912"
+    [35mduration[39m: 310163
+    [35mcode[39m: 137
+[22:32:22.076] [31mERROR[39m (34158): [36mContainer agent error[39m
+    [35mgroup[39m: "main"
+    error: "Container timed out after 300000ms"
+[22:32:22.076] [32mINFO[39m (34158): [36mScheduling retry with backoff[39m
+    [35mgroupJid[39m: "6863995397"
+    [35mretryCount[39m: 1
+    [35mdelayMs[39m: 5000
+[22:32:27.079] [32mINFO[39m (34158): [36mProcessing messages[39m
+    [35mgroup[39m: "main"
+    [35mmessageCount[39m: 1
+[22:32:27.291] [32mINFO[39m (34158): [36mSpawning container agent[39m
+    [35mgroup[39m: "main"
+    [35mcontainerName[39m: "nanoclaw-main-1771385547291"
+    [35mmountCount[39m: 5
+    [35misMain[39m: true
+[22:32:34.215] [32mINFO[39m (34158): [36mTelegram message sent[39m
+    [35mchatId[39m: "6863995397"
+    [35mlength[39m: 111
+[22:32:34.216] [32mINFO[39m (34158): [36mIPC message sent[39m
+    [35mchatJid[39m: "6863995397"
+    [35msourceGroup[39m: "main"
+[22:35:56.143] [32mINFO[39m (34158): [36mNew messages[39m
+    [35mcount[39m: 1
