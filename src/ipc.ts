@@ -168,7 +168,7 @@ export function startIpcWatcher(deps: IpcDeps): void {
  * Process a single IPC task command.
  * Handles schedule_task, pause_task, resume_task, cancel_task, refresh_groups, register_group.
  */
-async function processTaskIpc(
+export async function processTaskIpc(
   data: {
     type: string;
     taskId?: string;
