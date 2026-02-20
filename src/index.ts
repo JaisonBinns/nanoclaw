@@ -36,16 +36,12 @@ import {
 } from './db.js';
 import { GroupQueue } from './group-queue.js';
 import { startIpcWatcher } from './ipc.js';
-import { formatMessages, formatOutbound } from './router.js';
+import { formatMessages, formatMessagesXml, setTypingViaChannel } from './router.js';
 import { startSchedulerLoop } from './task-scheduler.js';
 import { NewMessage, RegisteredGroup } from './types.js';
 import { logger } from './logger.js';
 import { Channel, ChannelMessage } from './channel.js';
 import { TelegramChannel } from './channels/telegram.js';
-import { formatMessagesXml, setTypingViaChannel } from './router.js';
-
-// Re-export for backwards compatibility during refactor
-export { escapeXml, formatMessages } from './router.js';
 
 let channel: Channel;
 let lastTimestamp = '';
