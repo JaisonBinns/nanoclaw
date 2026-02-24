@@ -1,0 +1,12 @@
+8 new upstream commit(s) available:
+
+41e54a9 fix: pass filePath in setupRerereAdapter stale MERGE_HEAD cleanup
+7181c49 feat: add /convert-to-apple-container skill, remove /convert-to-docker (#324)
+a407216 feat: add voice transcription as nanorepo skill (#326)
+6b9b3a1 docs: update skills to use Docker commands after runtime migration (#325)
+a7faac6 docs: update token count to 36.3k tokens · 18% of context window
+607623a feat: convert container runtime from Apple Container to Docker (#323)
+51a50d4 docs: update token count to 36.4k tokens · 18% of context window
+c6e1bfe refactor: extract runtime-specific code into src/container-runtime.ts (#321)
+
+To merge: cd /Users/macserver/self-hosted/nanoclaw && git merge upstream/main

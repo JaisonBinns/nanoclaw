@@ -4,8 +4,8 @@
 
 set -e
 
-LOG="/Users/macserver/nanoclaw/logs/rebuild.log"
-PROJECT="/Users/macserver/nanoclaw"
+LOG="/Users/macserver/self-hosted/nanoclaw/logs/rebuild.log"
+PROJECT="/Users/macserver/self-hosted/nanoclaw"
 
 echo "==============================" >> "$LOG"
 echo "[$(date)] Starting rebuild..." >> "$LOG"

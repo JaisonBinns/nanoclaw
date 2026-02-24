@@ -1,8 +1,14 @@
 [
   {
     "id": "rebuild-nanoclaw",
-    "execute-command": "/Users/macserver/nanoclaw/rebuild.sh",
-    "command-working-directory": "/Users/macserver/nanoclaw",
+    "execute-command": "/Users/macserver/self-hosted/nanoclaw/rebuild.sh",
+    "command-working-directory": "/Users/macserver/self-hosted/nanoclaw",
     "response-message": "Rebuild triggered"
+  },
+  {
+    "id": "merge-upstream",
+    "execute-command": "/Users/macserver/self-hosted/nanoclaw/merge-upstream.sh",
+    "command-working-directory": "/Users/macserver/self-hosted/nanoclaw",
+    "response-message": "Merge triggered"
   }
 ]
